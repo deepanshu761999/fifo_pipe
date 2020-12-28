@@ -2,13 +2,13 @@
 FIFO - implemented using semaphore and pthread to establish communication between threads.
 
 ## Directory Structure
-pipe_def.c-
+**pipe_def.c**-
   contains definitions of pipe utility functions
 
-pipe.h-
+**pipe.h**-
   contains declerations of pipe and pipe utility functions
   
-main.c-
+**main.c**-
   sample test bench for pipe testing
   
 ## PIPE DOCUMENTATION
@@ -19,4 +19,4 @@ A pipe can be decleared by following syntax:
  > pipe_t \*<*pipe-name*>;
       
 ### pipe initialization
-    kkkkk
+kkkkk
