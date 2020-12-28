@@ -14,9 +14,9 @@ main.c-
 ## PIPE DOCUMENTATION
 Pipe can be used for data sharing between different threads. Pipe is extremely useful for concurrent program. Concurrent program may be model of hardware system, software application, etc.
 
-  ### pipe decleration
-    A pipe can be decleared by following syntax:
-      > pipe_t \*<*pipe-name*>;
+### pipe decleration
+A pipe can be decleared by following syntax:
+ > pipe_t \*<*pipe-name*>;
       
-  ### pipe initialization
+### pipe initialization
     kkkkk
