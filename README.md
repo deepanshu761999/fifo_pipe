@@ -20,7 +20,7 @@ A pipe is defined by following syntax:
       
 ### pipe initialization
 Initialization of the defined is done using:
->pipe_init( pipe_t <*pipe-name*>, int *<pipe-size>*, int *<buffer-pointer>*);
+>pipe_init( pipe_t <*pipe-name*>, int <*pipe-size*>, int <*buffer-pointer*>);
   
 ### pipe read
 > int pipe_read( pipe_t <*pipe-name*>);
